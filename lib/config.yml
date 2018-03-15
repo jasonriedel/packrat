@@ -1,0 +1,6 @@
+collector:
+  projects:
+    - tuxlabs-trading
+  resources:
+    - instances
+    - zones
